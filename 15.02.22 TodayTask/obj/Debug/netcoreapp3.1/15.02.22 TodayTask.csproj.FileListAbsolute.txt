@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\15.02.22 TodayTask\bin\Debug\netcoreapp3.1\15.02.22 TodayTask.exe
+C:\Users\HP\Desktop\15.02.22 TodayTask\bin\Debug\netcoreapp3.1\15.02.22 TodayTask.deps.json
+C:\Users\HP\Desktop\15.02.22 TodayTask\bin\Debug\netcoreapp3.1\15.02.22 TodayTask.runtimeconfig.json
+C:\Users\HP\Desktop\15.02.22 TodayTask\bin\Debug\netcoreapp3.1\15.02.22 TodayTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\15.02.22 TodayTask\bin\Debug\netcoreapp3.1\15.02.22 TodayTask.dll
+C:\Users\HP\Desktop\15.02.22 TodayTask\bin\Debug\netcoreapp3.1\15.02.22 TodayTask.pdb
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.dll
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.pdb
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\15.02.22 TodayTask\obj\Debug\netcoreapp3.1\15.02.22 TodayTask.csproj.AssemblyReference.cache
